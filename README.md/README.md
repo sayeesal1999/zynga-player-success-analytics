@@ -28,4 +28,4 @@ It analyzes player engagement, VIP behavior, campaign performance, and support s
 **Cloud & Data:** AWS Redshift, Snowflake  
 **Other:** Jupyter Notebook, GitHub  
 
----
+--- 
